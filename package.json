@@ -1,0 +1,16 @@
+{
+  "name": "webgl_introduction",
+  "version": "1.0.0",
+  "description": "A web ppt project about WebGL.",
+  "main": "index.js",
+  "scripts": {
+    "serve:ppt": "./node_modules/.bin/nodeppt serve index.md",
+    "build": "./node_modules/.bin/nodeppt build index.md"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodeppt": "^2.1.8"
+  }
+}
