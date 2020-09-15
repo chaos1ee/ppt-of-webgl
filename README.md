@@ -1,6 +1,8 @@
 ## WebGL 演示 ppt
 
-[地址](http://chaos1ee-webgl.surge.sh/)
+[ppt地址](https://ppt-of-webgl.vercel.app)
+
+![ppt](./ppt-cover.png)
 
 ### install
 
